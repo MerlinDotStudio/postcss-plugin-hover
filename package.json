@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugin-hover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An accessible hover replacement",
   "main": "index.js",
   "scripts": {
